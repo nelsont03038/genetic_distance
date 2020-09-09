@@ -1,1 +1,1 @@
-# genetic_distance
+#Compute genetic distance based on sequence variants. 
